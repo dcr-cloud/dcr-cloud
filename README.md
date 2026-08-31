@@ -27,10 +27,6 @@ Hi there 👋<br><br>Nice meeting you, I'm Dhruv Chauhan!<br>🔭 I’m currentl
 [![](https://visitcount.itsvg.in/api?id=dcr-cloud&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-Here are some ideas to get you started:
-
-Hi there 👋
-
 Nice meeting you, I’m Dhruv Chauhan!
 🔭 I’m currently finding Remote work
 💬 Ask me about data analytics & stuff.
